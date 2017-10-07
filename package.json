@@ -1,12 +1,12 @@
 {
   "name": "ember-zerokit",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "An ember addon exposing a clean service for ZeroKit from Tresorit.",
   "keywords": [
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Miles Zimmerman",
   "directories": {
     "doc": "doc",
     "test": "tests"

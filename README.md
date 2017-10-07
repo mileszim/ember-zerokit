@@ -1,17 +1,10 @@
 # ember-zerokit
 
-This README outlines the details of collaborating on this Ember addon.
+An ember addon exposing a clean service for ZeroKit from Tresorit.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-zerokit`
-* `npm install`
-
-## Running
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+* `ember install ember-zerokit`
 
 ## Running Tests
 
@@ -22,5 +15,3 @@ This README outlines the details of collaborating on this Ember addon.
 ## Building
 
 * `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
